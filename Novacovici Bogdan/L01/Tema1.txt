@@ -1,0 +1,6 @@
+Stack Overflow este un site web unde utilizatorii pot posta intrebari si raspunsuri din domeniul programarii.
+Poti vota raspunsurile sau intrebarile bune sau care te intereseaza.
+Exista filtre pentru intrebari in functie de popularitate, activitate recenta sau daca
+au primit sau nu raspuns. 
+Poti gasi job-uri in domeniul IT.
+Poti incarca cod ca raspuns la intrebari.
