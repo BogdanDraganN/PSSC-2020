@@ -1,0 +1,13 @@
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.csprojAssemblyReference.cache
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.csproj.dotnet-codegen.rsp
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Domain.S3AMED9u.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\CheckLanguageCmd.K8oGbW3-.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\CreateReplyCmd.5PVJg+NU.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Reply.r+8mHWST.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\CheckLanguageResult.RBhqz1IB.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\CreateReplyResult.9g9HG62W.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Program.FZXpolD-.generated.cs
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.csproj.dotnet-codegen.GeneratedFileList.txt
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.AssemblyInfoInputs.cache
+C:\Users\Razvan Novacovici\Downloads\lab-6-master\lab-6-master\Tema6\Tema6\obj\Debug\netcoreapp3.1\Tema6.AssemblyInfo.cs

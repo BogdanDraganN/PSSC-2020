@@ -1,0 +1,7 @@
+obj\Debug\netcoreapp3.1\Domain.S3AMED9u.generated.cs
+obj\Debug\netcoreapp3.1\CheckLanguageCmd.K8oGbW3-.generated.cs
+obj\Debug\netcoreapp3.1\CreateReplyCmd.5PVJg+NU.generated.cs
+obj\Debug\netcoreapp3.1\Reply.r+8mHWST.generated.cs
+obj\Debug\netcoreapp3.1\CheckLanguageResult.RBhqz1IB.generated.cs
+obj\Debug\netcoreapp3.1\CreateReplyResult.9g9HG62W.generated.cs
+obj\Debug\netcoreapp3.1\Program.FZXpolD-.generated.cs
